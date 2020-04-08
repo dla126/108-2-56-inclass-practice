@@ -231,6 +231,6 @@ save(commit,listExample,file = "0402.Rda")
 ```
 
 ```{r}
-load("0402.Rda")
+load("0402.Rda,")
 ```
 
