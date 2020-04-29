@@ -1,0 +1,1 @@
+"0","pick_evens <- (sequenceNums %% 2) == 0"
