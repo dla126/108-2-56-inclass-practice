@@ -1,0 +1,1 @@
+"0","map(dance[[8]]$showInfo, ~c(.x$time,.x$location)) ->list_showTimes_location_dance8"

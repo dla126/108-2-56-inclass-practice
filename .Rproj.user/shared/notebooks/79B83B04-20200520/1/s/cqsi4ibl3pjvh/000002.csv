@@ -1,0 +1,1 @@
+"0","list_busroutes <- map(busRoutes,~c(.x$Id,.x$providerId,.x$providerName,.x$nameZh))"
