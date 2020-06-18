@@ -1,0 +1,23 @@
+"0","switch(
+  as.character(nowtime),
+  ""morning""={
+    print(""要不要來閱讀點國際時事？"")
+    browseURL(""https://economist.com"")
+  },
+  ""evening""={
+    print(""需不需要點餐呢？"")
+    browseURL(""https://www.foodpanda.com.tw/"")
+  },
+  ""jazz time""={
+    print(""放鬆聽點Jazz。"")
+    browseURL(""https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt"")
+  },
+  {
+    print(""機器人要休息，饒了我吧～～"")
+  }
+)
+"
+"1","[1]"
+"1"," ""需不需要點餐呢？"""
+"1","
+"
