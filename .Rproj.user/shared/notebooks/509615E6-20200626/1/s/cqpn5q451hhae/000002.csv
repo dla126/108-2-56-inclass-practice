@@ -1,0 +1,8 @@
+"0","count <- 0 # 計數器開始值"
+"0","max_count <- 500 # 計數上限"
+"0","while(continueCondition && count <= max_count){ # 增加計數上限條件"
+"0","  count <- count+1 # 計數器加1"
+"0","  body"
+"0","}"
+"2","Error in continueCondition : 找不到物件 'continueCondition'
+"
